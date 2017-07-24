@@ -1,7 +1,7 @@
-Package: drat
-Version: 0.0.4
-Suggests: git2r, knitr
-License: GPL (>= 2)
-MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
+Package: QPAD
+Version: 0.0-3
+Suggests: MASS
+License: GPL-2
+MD5sum: 9c5628b41510241b9e704fb33e05159a
 NeedsCompilation: no
 
