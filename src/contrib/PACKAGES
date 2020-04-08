@@ -3,7 +3,7 @@ Version: 0.2.6
 Depends: popbio
 Suggests: knitr, rmarkdown, shiny, shinydashboard, plotly, openxlsx
 License: Apache License (== 2.0) | file LICENSE
-MD5sum: 0fea9d698b03696320c4931c59225a1e
+MD5sum: 859fa0b690f736d55e72503858192192
 NeedsCompilation: no
 
 Package: NMF
