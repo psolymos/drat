@@ -3,19 +3,19 @@ Version: 0.2.6
 Depends: popbio
 Suggests: knitr, rmarkdown, shiny, shinydashboard, plotly, openxlsx
 License: Apache License (== 2.0) | file LICENSE
-MD5sum: 859fa0b690f736d55e72503858192192
+MD5sum: a02deba8f51cd62d1b0b0b34ca52f36f
 NeedsCompilation: no
 
 Package: NMF
 Version: 0.20.6
 Depends: R (>= 3.0.0), methods, utils, pkgmaker (>= 0.20), registry,
-       rngtools (>= 1.2.3), cluster
-Imports: graphics, stats, stringr (>= 1.0.0), digest, grid,
-       grDevices, gridBase, colorspace, RColorBrewer, foreach,
-       doParallel, ggplot2, reshape2
+        rngtools (>= 1.2.3), cluster
+Imports: graphics, stats, stringr (>= 1.0.0), digest, grid, grDevices,
+        gridBase, colorspace, RColorBrewer, foreach, doParallel,
+        ggplot2, reshape2
 Suggests: RcppOctave (>= 0.11), fastICA, doMPI, bigmemory (>= 4.2),
-       synchronicity, corpcor, xtable, devtools, knitr, bibtex,
-       RUnit, mail, Biobase
+        synchronicity, corpcor, xtable, devtools, knitr, bibtex, RUnit,
+        mail, Biobase
 License: GPL (>= 2)
 MD5sum: ea93facc6c93839df3e89e91107282dd
 NeedsCompilation: yes
