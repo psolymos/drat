@@ -1,9 +1,9 @@
 Package: CaribouBC
-Version: 0.2.71
+Version: 0.2.72
 Depends: popbio
 Suggests: knitr, rmarkdown, shiny, shinydashboard, plotly, openxlsx
 License: Apache License (== 2.0) | file LICENSE
-MD5sum: 3f5d937d71b4947dbbca28682a999ad0
+MD5sum: 2ebcb787703b0dd1c5ebda9aa523663a
 NeedsCompilation: no
 
 Package: NMF
@@ -11,8 +11,8 @@ Version: 0.20.6
 Depends: R (>= 3.0.0), methods, utils, pkgmaker (>= 0.20), registry,
         rngtools (>= 1.2.3), cluster
 Imports: graphics, stats, stringr (>= 1.0.0), digest, grid, grDevices,
-        gridBase, colorspace, RColorBrewer, foreach, doParallel, ggplot2,
-        reshape2
+        gridBase, colorspace, RColorBrewer, foreach, doParallel,
+        ggplot2, reshape2
 Suggests: RcppOctave (>= 0.11), fastICA, doMPI, bigmemory (>= 4.2),
         synchronicity, corpcor, xtable, devtools, knitr, bibtex, RUnit,
         mail, Biobase
