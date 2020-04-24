@@ -1,9 +1,9 @@
 Package: CaribouBC
-Version: 0.2.73
+Version: 0.2.74
 Depends: popbio
 Suggests: knitr, rmarkdown, shiny, shinydashboard, plotly, openxlsx
 License: Apache License (== 2.0) | file LICENSE
-MD5sum: 87339852633f6baf06b9ce5bfb006c21
+MD5sum: 878bfc4d74ebdd8935f3d483dc13e075
 NeedsCompilation: no
 
 Package: NMF
