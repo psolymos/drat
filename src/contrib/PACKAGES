@@ -4,7 +4,7 @@ Depends: popbio
 Suggests: knitr, rmarkdown, shiny, shinydashboard, plotly, openxlsx,
         shinyBS
 License: Apache License (== 2.0) | file LICENSE
-MD5sum: 3204ff1a787f9e99cb819237125fdf7d
+MD5sum: 5808d3f85fa88e8500e63ae524b66544
 NeedsCompilation: no
 
 Package: NMF
