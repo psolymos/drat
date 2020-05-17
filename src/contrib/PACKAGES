@@ -27,3 +27,12 @@ Suggests: MASS
 License: GPL-2
 MD5sum: 9c5628b41510241b9e704fb33e05159a
 NeedsCompilation: no
+
+Package: WildLift
+Version: 0.2.78
+Depends: popbio
+Suggests: knitr, rmarkdown, shiny, shinydashboard, plotly, openxlsx,
+        shinyBS
+License: Apache License (== 2.0) | file LICENSE
+MD5sum: 5fb661663181c8135fca7e8f99eb8575
+NeedsCompilation: no
